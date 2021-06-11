@@ -1,0 +1,81 @@
+.main-background{
+
+    background-color: rgb(245, 236, 223);
+}
+
+.hilight{
+   color: #f1a415;
+}
+.button{
+    width: 120px;
+    height: 45px;
+    background-color: rgb(158, 196, 20);
+    border:none;
+    font-weight: bold;
+}
+.button:hover{
+    background-color: rgb(121, 168, 9);
+}
+.card-border{
+    border:none;
+   
+   
+}
+.women-jacket{
+    background-color: rgb(233, 228, 228);
+    
+    height: 500px;
+    border-radius: 10px;
+}
+.price{
+    color:#f1a415;
+    font-size: 30px;
+    font-weight: bold;
+}
+.card-footer{
+    border:none;
+    background-color: white;
+}
+.jacket-name{
+    font-weight: bold;
+    font-size:30px;
+}
+
+.icon{
+    width:100px;
+    margin-top:0px;
+    margin-left: 40px;
+}
+.last-card{
+  border:none;
+}
+
+.list{
+    list-style: none;
+    text-decoration: none;
+}
+footer{
+    background-color: rgb(1, 1, 22);}
+footer a{
+    text-decoration: none;
+    color:white;
+}
+.social-media1 ,.social-media2 , .social-media3, .social-media4{
+    font-size: 30px;
+}
+footer h1{
+    color: white;
+    padding: 10px;
+}
+.social-media1{
+    color:blue;
+}
+.social-media2{
+    color:goldenrod
+}
+.social-media3{
+    color:white;
+}
+.social-media4{
+    color:orangered;
+}
